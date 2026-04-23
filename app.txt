@@ -1,6 +1,11 @@
+hello from submit<<<<<<< HEAD
 hello linux foundtion
 Ccur		This My Dev Branch
 
+=======
+
+Amul drink
+>>>>>>> dev
 my first switch branch dev...
 Ahello java
 A
